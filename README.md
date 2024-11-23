@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YasamanJahangard
-- 👀 I’m interested in network, spring boot, python and Of course Network security
-- 🌱 I’m currently learning spring boot and Network security
-- 💞️ I’m looking to collaborate on project that is writing with spring boot and java core
+- 👋 Hi, I’m @YasamanJahangard :))
+- I learned a lot of skills but  small amount of them like Network,c++,python,HTML,CSS
+- I’m currently learning spring boot,  Network security and I want to b eing better in java core
+- I’m looking to collaborate on project that is writing with spring boot and java core
 - 📫 How to reach me yasamanjahangardd@gmail.com
 - ⚡ Fun fact: I' m trying to be a Developer  with a developing stress :|
   
