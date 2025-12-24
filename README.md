@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasamanJahangard :))
-- I learned a lot of skills but a bit like Network,c++,python,HTML,CSS,matlab
-- I’m currently learning spring boot,  Network security and I want to be better in java core
-- I’m looking to collaborate on project that is writing with spring boot and java core
+- I learned a lot of skills but a bit like Network,c++,python,HTML,CSS,matlab,java
+- I’m currently learning django,linux
+- I’m looking to collaborate on project that is writing with django and python
 - 📫 How to reach me yasamanjahangardd@gmail.com
 - ⚡ Fun fact: I' m trying to be a Developer  with a developing stress :|
   
